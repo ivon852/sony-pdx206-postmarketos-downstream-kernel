@@ -2,4 +2,4 @@
 
 Downstreamed kernel forked from: [https://github.com/XperiaBrickers/android_kernel_sony_sm8250](https://github.com/XperiaBrickers/android_kernel_sony_sm8250)
 
-Still testing. Not gurantee to boot.
+Still testing. Not guarantee to boot.
